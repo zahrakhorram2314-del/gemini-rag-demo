@@ -1,2 +1,4 @@
 streamlit
 google-generativeai
+google-adk~=2.4.*
+mcp~=1.29.*
